@@ -45,16 +45,16 @@ City Taxi is a modern web-based ride-booking platform built with a full-stack ar
 
 
 ### 🔐 Login Page  
-![Login Page](login.jpg)
+![Login Page](images/login.jpg.jpg)
 
 ### 🗺️ Driver Map View  
-![Map View](map-view.jpg)
+![Map View](images/map-view.jpg.jpg)
 
 ### 🚕 Booking Interface  
-![Booking](booking.jpg)
+![Booking](images/booking.jpg.jpg)
 
 ### 🧑‍💼 Operator Dashboard  
-![Dashboard](admin-dashboard.jpg)
+![Dashboard](images/admin-dashboard.jpg.jpg)
 
 ---
 
