@@ -66,3 +66,10 @@ City Taxi is a modern web-based ride-booking platform built with a full-stack ar
 └────────────┘   (Axios)         └──────────────┘     (Spring Data JPA)
        │                                 ▲
        └──────────── Google Maps ────────┘
+```
+## License
+
+This project is licensed under a **Proprietary License**.  
+You are **not permitted** to use, distribute, or modify this software without explicit written permission.
+
+© 2025 [Your Name or Brand Name]. All rights reserved.
